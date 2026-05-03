@@ -6,10 +6,7 @@ Criar uma interface moderna e interativa para apresentar filmes e conteúdos fav
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
-- Web Design
-- UI/UX
-
+- 
 ## Funcionalidades
 - Exibição personalizada de filmes favoritos
 - Interface inspirada em streaming platforms
